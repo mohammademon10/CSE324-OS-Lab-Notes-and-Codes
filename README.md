@@ -1,8 +1,14 @@
 <div align="center">
 
-# 🐧 Operating Systems Lab — CSE324
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Operating%20Systems%20Lab&fontSize=42&fontAlignY=36&desc=CSE324%20%E2%80%A2%20Linux%20%E2%80%A2%20Bash%20Scripting%20%E2%80%A2%20Ubuntu%2FWSL&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Operating Systems Lab Header" />
 
-### *Linux • Bash Shell Scripting • Ubuntu / WSL*
+<br/>
+
+<a href="https://github.com/mohammademon10/CSE324-OS-Lab-Notes-and-Codes">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=%F0%9F%90%A7+Welcome+to+CSE324%3A+Operating+Systems+Lab;%F0%9F%92%BB+Linux+CLI+%E2%80%A2+GNU+Bash+Scripting+%E2%80%A2+Ubuntu%2FWSL;%F0%9F%8E%93+Daffodil+International+University+(DIU);%E2%9A%A1+Shell+Automation+%26+Algorithmic+Problem+Solving" alt="Typing SVG Animation" />
+</a>
+
+<br/><br/>
 
 [![Course](https://img.shields.io/badge/Course-CSE324%20Operating%20Systems%20Lab-007ACC?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/mohammademon10/CSE324-OS-Lab-Notes-and-Codes)
 [![Institution](https://img.shields.io/badge/University-Daffodil%20International%20University-006a4e?style=for-the-badge&logo=google-classroom&logoColor=white)](https://daffodilvarsity.edu.bd/)
@@ -449,6 +455,9 @@ Faculty of Science & Information Technology
 - 📂 Repository: [CSE324-OS-Lab-Notes-and-Codes](https://github.com/mohammademon10/CSE324-OS-Lab-Notes-and-Codes)
 
 <div align="center">
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <br/><br/>
   ⭐️ <b>If you found this repository helpful for your OS Lab preparation, please give it a star!</b> ⭐️
 </div>
+
+
